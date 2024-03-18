@@ -10,3 +10,4 @@ python繪圖|matplotlib.ipynb|https://youtu.be/SsFuVouVrGU
 python表格應用|pandas.ipynb以及其餘csv、xlsx示範檔|https://youtu.be/HtjK7bWD5kQ
 python統計查表與檢定|scipy.ipynb|https://youtu.be/G5wBO1DVqZI
 python迴歸分析|regression.ipynb|https://youtu.be/6x2e3U4ZlmI
+使用Google Colab執行python|colab.pdf|
